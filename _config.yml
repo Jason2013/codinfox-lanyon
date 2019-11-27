@@ -44,13 +44,13 @@ nav:
     - { Categories: '/lanyon/blog/categories/' }
     - { Tags: '/lanyon/blog/tags/' }
   About:          
-    - '/about/'
+    - '/lanyon/about/'
   Github Project: 
     - 'http://codinfox.github.io/'
 
 # Where are tags and categories displayed
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+tag_page: '/lanyon/blog/tags/'
+category_page: '/lanyon/blog/categories/'
 
 hero:
   image: /public/img/we_will_be_giants_by_yalestewart.jpg
