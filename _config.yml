@@ -41,8 +41,8 @@ nav:
     - '/lanyon'
   Blog:           
     - '/lanyon/blog/'
-    - { Categories: '/lanyon/blog/categories/' }
-    - { Tags: '/lanyon/blog/tags/' }
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
   About:          
     - '/lanyon/about/'
   Github Project: 
