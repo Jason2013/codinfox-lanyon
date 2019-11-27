@@ -38,11 +38,11 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
+    - '/lanyon'
   Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+    - '/lanyon/blog/'
+    - { Categories: '/lanyon/blog/categories/' }
+    - { Tags: '/lanyon/blog/tags/' }
   About:          
     - '/about/'
   Github Project: 
