@@ -40,7 +40,7 @@ nav:
   Home:           
     - '/lanyon'
   Blog:           
-    - '/lanyon/blog/'
+    - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
   About:          
